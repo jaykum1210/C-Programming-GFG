@@ -4,7 +4,7 @@ int a,b;
 printf("Enter number = ");
 scanf("%d %d",&a,&b);
 int great;
-if(a>b){
+if(a<b){
     great = a;
 }
 else{
