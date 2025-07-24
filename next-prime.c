@@ -14,7 +14,7 @@ int fun(int a){
 
 int main(){
     int a;
-    printf("ENter number = ");
+    printf("Enter number = ");
     scanf("%d",&a);
     a++;
     while(!fun(a)){
